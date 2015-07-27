@@ -27,6 +27,7 @@ This directory will eventually evolve into an actual app where it will be possib
 
 ##Real Estate
 - [Den](https://github.com/asamiller/den) [![][phone]][Den]
+- [PropertyFinder](https://github.com/ColinEberhardt/ReactNative-PropertyFinder) [![][phone]][PropertyFinder]
 
 ##Weather
 - [Weather](https://github.com/shevawen/react-native-weather-app) [![][phone]][Weather]
@@ -45,3 +46,4 @@ This directory will eventually evolve into an actual app where it will be possib
 [Den]: screens/den.jpg?raw=true
 [BookSearch]: screens/React-Native-Demo-App.png?raw=true
 [ReactTo36]: screens/ReactTo36.png?raw=true
+[PropertyFinder]: screens/ReactNative-PropertyFinder.png?raw=true
