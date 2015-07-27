@@ -3,6 +3,9 @@ A directory of react-native apps. Be inspired, learn and contribute!
 
 This directory will eventually evolve into an actual app where it will be possible to browse by categories, npm dependencies and see latest additions much alike the app store. One cool addition would be to test out apps directly from within the app through the awesome power of [appetize](https://appetize.io/).
 
+##Games
+- [Sudoku](https://github.com/christopherdro/react-native-sudoku) [![][phone]][Sudoku]
+
 ##Graphics & Design
 - [Dribbble](https://github.com/catalinmiron/react-native-dribbble-app) [![][phone]][DribblePhone]
 
@@ -29,3 +32,4 @@ This directory will eventually evolve into an actual app where it will be possib
 [IcelandEarthquakes]: screens/IcelandEarthquakes.png?raw=true
 [Weather]: screens/react-native-weather-app.png?raw=true
 [iTunesCatalog]: screens/ReactNativeWorkshop.png
+[Sudoku]: screens/react-native-sudoku.gif?raw=true
