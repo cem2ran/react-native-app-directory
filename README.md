@@ -22,7 +22,7 @@ This directory will eventually evolve into an actual app where it will be possib
 
 ##News
 - [Product Hunt](https://github.com/rkho/product-hunt-react-native)
-- [Hacker News](https://github.com/iSimar/HackerNews-React-Native)
+- [Hacker News](https://github.com/iSimar/HackerNews-React-Native) [![][phone]][HackerNews]
 - [RSS Reader](https://github.com/christopherdro/react-native-rss-reader) [![][phone]][RssReaderPhone]
 
 ##Real Estate
@@ -47,3 +47,4 @@ This directory will eventually evolve into an actual app where it will be possib
 [BookSearch]: screens/React-Native-Demo-App.png?raw=true
 [ReactTo36]: screens/ReactTo36.png?raw=true
 [PropertyFinder]: screens/ReactNative-PropertyFinder.png?raw=true
+[HackerNews]: screens/HackerNews-React-Native.png?raw=true
