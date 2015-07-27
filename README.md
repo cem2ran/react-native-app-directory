@@ -6,6 +6,9 @@ This directory will eventually evolve into an actual app where it will be possib
 ##Books
 - [BookSearch](https://github.com/appcoda/React-Native-Demo-App) [![][phone]][BookSearch]
 
+##Entertainment
+- [ReactTo36](https://github.com/jssolichin/ReactTo36) [![][phone]][ReactTo36]
+
 ##Games
 - [Sudoku](https://github.com/christopherdro/react-native-sudoku) [![][phone]][Sudoku]
 
@@ -41,3 +44,4 @@ This directory will eventually evolve into an actual app where it will be possib
 [Sudoku]: screens/react-native-sudoku.gif?raw=true
 [Den]: screens/den.jpg?raw=true
 [BookSearch]: screens/React-Native-Demo-App.png?raw=true
+[ReactTo36]: screens/ReactTo36.png?raw=true
