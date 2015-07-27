@@ -23,7 +23,7 @@ This directory will eventually evolve into an actual app where it will be possib
 [phone]: assets/phone.png
 [tablet]: assets/tablet.png
 
-[RssReaderPhone]: screens/react-native-rss-reader.gif
-[DribblePhone]: screens/react-native-dribbble-app.jpg
-[IcelandEarthquakes]: screens/IcelandEarthquakes.png
-[Weather]: screens/react-native-weather-app.png
+[RssReaderPhone]: screens/react-native-rss-reader.gif?raw=true
+[DribblePhone]: screens/react-native-dribbble-app.jpg?raw=true
+[IcelandEarthquakes]: screens/IcelandEarthquakes.png?raw=true
+[Weather]: screens/react-native-weather-app.png?raw=true
