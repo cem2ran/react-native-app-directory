@@ -3,14 +3,14 @@ A directory of react-native apps. Be inspired, learn and contribute!
 
 This directory will eventually evolve into an actual app where it will be possible to browse by categories, npm dependencies and see latest additions much alike the app store. One cool addition would be to test out apps directly from within the app through the awesome power of [appetize](https://appetize.io/).
 
+##Books
+- [BookSearch](https://github.com/appcoda/React-Native-Demo-App) [![][phone]][BookSearch]
+
 ##Games
 - [Sudoku](https://github.com/christopherdro/react-native-sudoku) [![][phone]][Sudoku]
 
 ##Graphics & Design
 - [Dribbble](https://github.com/catalinmiron/react-native-dribbble-app) [![][phone]][DribblePhone]
-
-##Lifestyle
-- [Den](https://github.com/asamiller/den) [![][phone]][Den]
 
 ##Music
 - [Lumpen Radio](https://github.com/jhabdas/lumpen-radio)
@@ -21,6 +21,9 @@ This directory will eventually evolve into an actual app where it will be possib
 - [Product Hunt](https://github.com/rkho/product-hunt-react-native)
 - [Hacker News](https://github.com/iSimar/HackerNews-React-Native)
 - [RSS Reader](https://github.com/christopherdro/react-native-rss-reader) [![][phone]][RssReaderPhone]
+
+##Real Estate
+- [Den](https://github.com/asamiller/den) [![][phone]][Den]
 
 ##Weather
 - [Weather](https://github.com/shevawen/react-native-weather-app) [![][phone]][Weather]
@@ -37,3 +40,4 @@ This directory will eventually evolve into an actual app where it will be possib
 [iTunesCatalog]: screens/ReactNativeWorkshop.png
 [Sudoku]: screens/react-native-sudoku.gif?raw=true
 [Den]: screens/den.jpg?raw=true
+[BookSearch]: screens/React-Native-Demo-App.png?raw=true
