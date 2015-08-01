@@ -19,6 +19,7 @@ This directory will eventually evolve into an actual app where it will be possib
 - [Lumpen Radio](https://github.com/jhabdas/lumpen-radio)
 - [Music (Soundcloud)](https://github.com/nhayflick/ReactNativeMusic)
 - [iTunesCatalog](https://github.com/alexissan/ReactNativeWorkshop) [![][phone]][iTunesCatalog]
+- [SongKick](https://github.com/ArnaudRinquin/sk-react-native) [![][phone]][SongKick]
 
 ##News
 - [Product Hunt](https://github.com/rkho/product-hunt-react-native)
@@ -48,3 +49,4 @@ This directory will eventually evolve into an actual app where it will be possib
 [ReactTo36]: screens/ReactTo36.png?raw=true
 [PropertyFinder]: screens/ReactNative-PropertyFinder.png?raw=true
 [HackerNews]: screens/HackerNews-React-Native.png?raw=true
+[SongKick]: screens/sk-react-native.png?raw=true
